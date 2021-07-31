@@ -1,0 +1,18 @@
+
+.card{
+    width: 20vw;
+ 
+    margin: 3%;
+    
+    box-shadow: 5px 10px 8px lightgrey;
+    
+}
+.card > img{
+    height: 20vh;
+    width: 13vw;
+    margin-left: 3vw
+    
+}
+.card > Text{
+    text-align: center;
+}
